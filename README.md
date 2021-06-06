@@ -14,5 +14,10 @@ This project is part of the Web Development course taught by Professor Jorge San
 
 ## Final result
 
-![](https://github.com/JorgeJuniorBSB/.png)
+![](https://github.com/JorgeJuniorBSB/game_mata_mosquito_app/blob/b2fad2d4aea14ea031c02acb7ac6e9070bd28c73/public/home.png)
 
+![](https://github.com/JorgeJuniorBSB/game_mata_mosquito_app/blob/b2fad2d4aea14ea031c02acb7ac6e9070bd28c73/public/app.png)
+
+![](https://github.com/JorgeJuniorBSB/game_mata_mosquito_app/blob/b2fad2d4aea14ea031c02acb7ac6e9070bd28c73/public/victory.png)
+
+![](https://github.com/JorgeJuniorBSB/game_mata_mosquito_app/blob/b2fad2d4aea14ea031c02acb7ac6e9070bd28c73/public/game_over.png)
